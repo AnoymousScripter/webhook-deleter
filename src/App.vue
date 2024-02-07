@@ -30,7 +30,7 @@
        </div>
 	
 	   <div class="footer">
-		<p class="madewith-text">made with ♥ by spreehertz.</p>
+		<p class="madewith-text">made for fucking peoples webhooks up.</p>
 		<a href="https://github.com/spreehertz/webhook-deleter">
 			<img src="./assets/gh.svg" alt="github logo" style="height: 1.5rem; width: 1.5rem;">
 		</a>
