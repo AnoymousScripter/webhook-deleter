@@ -19,7 +19,7 @@
 </div>
 
    <div class="content">
-        <h1 class="webhook-deleter">discord webhook deleter</h1>
+        <h1 class="webhook-deleter">Discord Webhook Deleter</h1>
     </div>
         <label for="webhook-url" class="webhook-url-label">enter webhook url:</label>
         <div class="webhook-input">
